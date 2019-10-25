@@ -2,9 +2,13 @@
 tutorial depository
 
 random notes on Javascript
+
 != Does not equal operater
+
 (condition statement) ? (value if true) : (value if false) alternate to if else statement
+
 .push add to the end of an array
+
 .split(seperator,limit) seperate a string into seperate arrays based on criteria
 let set variable
 
@@ -15,8 +19,6 @@ if (x > 10) {return x * 5}
 if (condition statement)
 
 .slice(beginning element, ending element) returns a new array containing beginning at the first element of the arrary and end at (but not including) the ending element
-
-
 
 Filter
 let newArr = oldArr.filter(callback);
