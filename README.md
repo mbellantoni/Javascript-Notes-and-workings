@@ -58,3 +58,8 @@ accumulator — the accumulator accumulates all of the callbacks returned values
 val — the current value being processed
 index — the current index of the value being processed
 arr — the original array
+
+Concat
+Array.concat(array)
+
+Concats the first array (or string) to the second array (or string)
