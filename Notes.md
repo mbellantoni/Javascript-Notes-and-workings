@@ -20,6 +20,8 @@ if (condition statement)
 Filter
 let newArr = oldArr.filter(callback);
 
+let newArr = oldArr.filter((item) => {return item != null}):
+
 newArr — the new array that is returned
 oldArr — the array to run the filter function on
 callback — the function used to test each element of the oldArr. Returning true keeps the element, returning false to not keep it.
