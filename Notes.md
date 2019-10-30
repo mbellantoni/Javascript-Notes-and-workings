@@ -63,6 +63,12 @@ Array.concat(array)
 
 Concats the first array (or string) to the second array (or string)
 
+Some - Returns Bolean (true/ false) if any item in a array meets a criteria
+Array.some(callback)
+
+Every - Returns Bolean (true/ false) if alll items in a array meets a criteria
+Array.every(callback)
+
 Regular Expression (Regex)
 A regular expression is an object
 
